@@ -13,3 +13,8 @@ There are eight total attack types, each affecting a certain stat of the attacke
 Throughout a battle, the HP of both Pokémon will be displayed. The Pokémon whose HP reaches zero first will faint and lose the battle. When the attack selected by either the user or the computer is particularly effective, a message will also be printed after the battle round stating so.
 
 ---How to Play---
+
+Open and Run the game.py file.
+In each battle round, you can type a number corresponding to a dispalyed option, and press enter.
+
+Enjoy!
